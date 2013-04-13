@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="select_app">false</item>
+    <item type="id" name="app_list">false</item>
+    <item type="id" name="cpu_max">false</item>
+    <item type="id" name="edit_cpu_max">false</item>
+    <item type="id" name="gpu_max">false</item>
+    <item type="id" name="edit_gpu_max">false</item>
+    <item type="id" name="cpu_bumber_title">false</item>
+    <item type="id" name="cpu_spinner">false</item>
+    <item type="id" name="save">false</item>
+</resources>

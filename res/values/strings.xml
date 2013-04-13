@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pmqos</string>
+    <string name="cpu_maxprofile">CPU maxprofile</string>
+    <string name="gpu_maxprofile">GPU maxprofile</string>
+    <string name="cpu_number_max">CPU numer</string>
+    <string name="save">save</string>
+    <string name="select_app">Please select the app</string>
+    <string name="cpu_hint">0-1600M</string>
+    <string name="gpu_hint">0-550M</string>
+    <string name="cpu_prompt">select cup number</string>
+</resources>

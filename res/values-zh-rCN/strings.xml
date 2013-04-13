@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动调频</string>
+    <string name="cpu_maxprofile">CPU最大频率</string>
+    <string name="gpu_maxprofile">GPU最大频率</string>
+    <string name="cpu_number_max">CPU核数</string>
+    <string name="save">保存</string>
+    <string name="cpu_prompt">选择CPU个数</string>
+</resources>

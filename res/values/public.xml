@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="layout" name="pmqos_screen" id="0x7f030000" />
+    <public type="anim" name="cycle_7" id="0x7f040000" />
+    <public type="anim" name="shake" id="0x7f040001" />
+    <public type="array" name="cpu_number" id="0x7f050000" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="cpu_maxprofile" id="0x7f060001" />
+    <public type="string" name="gpu_maxprofile" id="0x7f060002" />
+    <public type="string" name="cpu_number_max" id="0x7f060003" />
+    <public type="string" name="save" id="0x7f060004" />
+    <public type="string" name="select_app" id="0x7f060005" />
+    <public type="string" name="cpu_hint" id="0x7f060006" />
+    <public type="string" name="gpu_hint" id="0x7f060007" />
+    <public type="string" name="cpu_prompt" id="0x7f060008" />
+    <public type="id" name="select_app" id="0x7f070000" />
+    <public type="id" name="app_list" id="0x7f070001" />
+    <public type="id" name="cpu_max" id="0x7f070002" />
+    <public type="id" name="edit_cpu_max" id="0x7f070003" />
+    <public type="id" name="gpu_max" id="0x7f070004" />
+    <public type="id" name="edit_gpu_max" id="0x7f070005" />
+    <public type="id" name="cpu_bumber_title" id="0x7f070006" />
+    <public type="id" name="cpu_spinner" id="0x7f070007" />
+    <public type="id" name="save" id="0x7f070008" />
+</resources>

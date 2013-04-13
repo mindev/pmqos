@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Policylist>
+    <frequencyPolicy name="com.android.browser">
+        <browser_policy>3</browser_policy>
+    </frequencyPolicy>
+    <frequencyPolicy name="android.opengl.cts.GLSurfaceViewStubActivity">
+        <nulloperation>3</nulloperation>
+    </frequencyPolicy>
+    <frequencyPolicy name="com.android.cts.stub">
+        <nulloperation>3</nulloperation>
+    </frequencyPolicy>
+    <frequencyPolicy name="com.rovio">
+        <cpu_frc_profile>2</cpu_frc_profile>
+    </frequencyPolicy>
+    <frequencyPolicy name="com.halfbrick">
+        <cpu_frc_profile>2</cpu_frc_profile>
+    </frequencyPolicy>
+</Policylist>

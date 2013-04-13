@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/select_app" android:layout_width="151.0dip" android:layout_height="wrap_content" android:text="@string/select_app" />
+    <Spinner android:id="@id/app_list" android:layout_width="274.0dip" android:layout_height="wrap_content" android:drawSelectorOnTop="true" android:prompt="@string/app_name" android:spinnerMode="dialog" />
+    <TextView android:id="@id/cpu_max" android:layout_width="104.0dip" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/cpu_maxprofile" />
+    <EditText android:id="@id/edit_cpu_max" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/cpu_hint" android:numeric="integer" android:inputType="number" />
+    <TextView android:id="@id/gpu_max" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/gpu_maxprofile" />
+    <EditText android:id="@id/edit_gpu_max" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/gpu_hint" android:numeric="integer" android:inputType="number" />
+    <TextView android:id="@id/cpu_bumber_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/cpu_number_max" />
+    <Spinner android:id="@id/cpu_spinner" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:prompt="@string/cpu_prompt" android:spinnerMode="dialog" />
+    <Button android:id="@id/save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/save" />
+</LinearLayout>
